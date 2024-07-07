@@ -99,7 +99,7 @@ A maioria dos testes de ataque são feitos contra uma dificuldade igual a 6. Ess
 
 - **Apontar:** O atacante acrescenta um dado à sua parada de dados de ataque a cada turno em que apontar, até um máximo de três turnos. Portanto, um personagem que gastar três turnos apontando terá um bônus de três dados no turno em que ele finalmente atacar. O alvo deve permanecer relativamente imóvel durante a manobra. Se o alvo estiver em movimento, a quantidade máxima de dados que o atacante pode obter é dois.
 
-## Estaca no Coração:
+- **Estaca no Coração:**
 
 É possível incapacitar um vampiro enfiando a clássica estaca de madeira em seu coração. Entretanto, há um equívoco nesse mito: ao atravessar o coração de um vampiro com uma estaca de madeira, ele não será destruído, apenas ficará imobilizado até que a estaca seja retirada.
 
